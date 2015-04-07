@@ -1,5 +1,5 @@
 {
-    "name":         "uecode/qpush-bundle",
+    "name":         "tahoelimited/qpush-bundle",
     "type":         "library",
     "description":  "Asynchronous processing for Symfony using Push Queues",
     "keywords":     ["qpush", "pub-sub", "aws", "iron mq", "asynch", "push", "symfony", "bundle" ],
